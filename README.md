@@ -4,7 +4,7 @@
 [![Latest release](https://img.shields.io/github/v/release/700elgoog/ziyin-island-app)](https://github.com/700elgoog/ziyin-island-app/releases/latest)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-字音岛是一款面向中国大陆 5—6 岁儿童的开源 Android 拼音、识字与启蒙阅读应用。项目以“孩子不依赖识字也能操作”为核心原则，通过全程语音引导、核心元素点读、口型示范、跟读录音、互动练习和描写活动，帮助学龄前儿童自主学习普通话拼音和常用汉字。
+字音岛是一款面向 5—6 岁儿童的开源 Android 拼音、识字与启蒙阅读应用。项目以“孩子不依赖识字也能操作”为核心原则，通过全程语音引导、核心元素点读、口型示范、跟读录音、互动练习和描写活动，帮助学龄前儿童自主学习普通话拼音和常用汉字。
 
 > 当前为早期公开版本，教学内容和语音评测仍在持续完善中，不替代专业教师或语言治疗建议。
 
