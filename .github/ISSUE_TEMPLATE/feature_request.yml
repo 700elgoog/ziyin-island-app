@@ -1,0 +1,24 @@
+name: 功能建议
+description: 提议新的课程、交互或工程改进
+title: "[建议] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 要解决的问题
+      description: 请说明儿童、家长、教师或开发者遇到的具体问题。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 教学或体验依据
+      description: 涉及课程与发音时，请提供可核验依据。
+

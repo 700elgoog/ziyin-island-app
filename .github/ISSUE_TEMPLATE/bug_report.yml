@@ -1,0 +1,36 @@
+name: Bug 报告
+description: 报告可以复现的应用问题
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: 请勿上传儿童姓名、声音、照片或其他个人信息。
+  - type: input
+    id: version
+    attributes:
+      label: 应用版本
+      placeholder: 例如 v0.5.0
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 设备与 Android 版本
+      placeholder: 例如 小米 Pad 8 / Android 16
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 请按顺序说明操作和实际结果。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果
+    validations:
+      required: true
+
